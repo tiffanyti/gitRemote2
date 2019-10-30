@@ -6,5 +6,9 @@
 <body>
 	<h1>Git Remote</h1>
 	<p>bikin repo di local terus dimasukin ke github</p>
+	<ol>
+		<li>ini udah push, udh nyambung ama repo yang di github</li>
+		<li>skr lagi dicoba buat tambahin hal dan push lagi masuk apa ngga</li>
+	</ol>
 </body>
 </html>
